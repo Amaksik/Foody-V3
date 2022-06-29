@@ -1,0 +1,15 @@
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\BAL\obj\Debug\net5.0\BAL.pdb

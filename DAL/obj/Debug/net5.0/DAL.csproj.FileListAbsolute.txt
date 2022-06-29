@@ -1,0 +1,15 @@
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\Anton Maksymenko\source\repos\Foody_V3\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
